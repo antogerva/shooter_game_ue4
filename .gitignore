@@ -1,0 +1,51 @@
+##########################
+# Unreal Generated Files #
+##########################
+**/Build
+**/Binaries
+**/DerivedDataCache
+**/Intermediate
+**/Saved
+**/Content/StarterContent/Textures
+**/Content/StarterContent/HDRI
+
+######################
+# VS Generated Files #
+######################
+**/*.VC.db
+**/*.suo
+**/*.VC.opendb
+**/*.sln
+
+######################
+#       LOG725       #
+######################
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+/.vs
+/.VS.db
+/*.sdf
+/*.opensdf
+/*.sln
+*.log
+
+######################
+#    LARGE ASSETS    #
+######################
+**/Content/KiteDemo
+**/Content/InfinityBladeAdversaries/
+**/Content/InfinityBladeFireLands/
+**/Content/InfinityBladeGrassLands/
+**/Content/InfinityBladeIceLands/
+**/Content/InfinityBladeWarriors/
+**/Content/InfinityBladeWeapons/
+**/Content/InfinityBladeEffects/
+
+
+######################
+#       OTHER        #
+######################
+**/.history/
+.history/
